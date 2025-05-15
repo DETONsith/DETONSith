@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=detonsith&theme=transparent&hide_border=true" alt="GitHub Streak" />
   <img width="30"/>
-  <img height="150" src="https://private-user-images.githubusercontent.com/74038190/250967624-b3fef2db-e671-4610-bb84-1d65533dc5fb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDczMjA5OTgsIm5iZiI6MTc0NzMyMDY5OCwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MjQtYjNmZWYyZGItZTY3MS00NjEwLWJiODQtMWQ2NTUzM2RjNWZiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE1VDE0NTEzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThkZWJlNTk3Y2M0YjE0MDc1NmQ4YTc2MTVjNDNhMDcxNDlkM2NlZjY5NGE0Y2Y1MDMxNjcyMTk2YjI2MDQ1ZjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ftWZPcz865VsYLg9jYAkoL5zEhWpvlPaUQBFOf-TTrQ"  />
+  <img height="200" src="https://i.giphy.com/ggK04fdPVARRtH8w7G.webp"  />
 </div>
 
 ###
