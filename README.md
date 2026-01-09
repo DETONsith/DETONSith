@@ -3,8 +3,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=detonsith&theme=transparent&hide_border=true" alt="GitHub Streak" />
-  <img width="30"/>
   <img height="200" src="https://i.giphy.com/ggK04fdPVARRtH8w7G.webp"  />
 </div>
 
